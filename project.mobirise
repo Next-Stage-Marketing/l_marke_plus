@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "L Marke Plus",
-    "currentPage": "page15.html",
+    "currentPage": "direct_saiyou.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -18799,7 +18799,7 @@
         }
       ]
     },
-    "page15.html": {
+    "direct_saiyou.html": {
       "settings": {
         "title": "『広告×LINE』ダイレクト採用システム構築サービス",
         "meta_descr": "狙った人材を広告で磁石のように引き寄せ、LINEで採用管理を自動化し、採用コストの削減をしつつ、自社で継続的に採用できるシステム（仕組み）を構築いたします。",
